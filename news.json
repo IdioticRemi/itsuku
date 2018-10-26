@@ -1,0 +1,117 @@
+{
+    "last": "0.6.1",
+    "vers": [{
+        "title": "0.3.0",
+        "date": "21/04/2018 | 23:05",
+        "added": [
+            "**+** Commandes customisées",
+            "**+** Commande pour voir les Nouveautés",
+            "**+** Système d'experience"
+        ]
+    }, {
+        "title": "0.4.0",
+        "date": "23/04/2018 | 22:06",
+        "added": [
+            "**+** Système de musique",
+            "**+** Commandes play, skip, stop, pause, resume",
+            "**+** Commandes volume, queue, joinme, playing",
+            "**+** Commandes baltop, exptop",
+            "**+** Fix de quelques bugs"
+        ]
+    }, {
+        "title": "0.4.1",
+        "date": "27/04/2018 | 19:11",
+        "added": [
+            "**+** Anti-Liens, désactivable et activable",
+            "**+** Commandes antilink, refresh",
+            "**+** Fix de quelques bugs"
+        ]
+    }, {
+        "title": "0.4.2",
+        "date": "28/04/2018 | 15:11",
+        "added": [
+            "**+** Commande support",
+            "**+** Fix de certaines commandes",
+            "**+** Fix de quelques bugs"
+        ]
+    }, {
+        "title": "0.4.3",
+        "date": "28/04/2018 | 19:49",
+        "added": [
+            "**+** Commande nick"
+        ]
+    }, {
+        "title": "0.4.4",
+        "date": "28/04/2018 | 20:01",
+        "added": [
+            "**+** Limite de commandes custom changé à **10** au lieu de **5**",
+            "**+** Limite du nom d'une commande custom : **32 caractères**",
+            "**+** Fix de quelques bugs avec les commandes custom"
+        ]
+    }, {
+        "title": "0.4.5",
+        "date": "29/04/2018 | 11:27",
+        "added": [
+            "**+** Commande mutelist",
+            "**+** Fix du bug avec la raison dans la commande mute"
+        ]
+    }, {
+        "title": "0.4.6",
+        "date": "29/04/2018 | 14:06",
+        "added": [
+            "**+** Changement de la permission anti-ban, anti-kick et anti-mute",
+            "**+** Changement du cooldown de toutes les commandes modération à **2 secondes**"
+        ]
+    }, {
+        "title": "0.4.7",
+        "date": "29/04/2018 | 19:21",
+        "added": [
+            "**+** Commande calc",
+            "**+** Commande (owner du bot) exec",
+            "**+** Fix de quelques bugs dans les commandes owner"
+        ]
+    }, {
+        "title": "0.4.8",
+        "date": "29/04/2018 | 22:04",
+        "added": [
+            "**+** Commande profile",
+            "**+** Fix de pas mal de bugs"
+        ]
+    }, {
+        "title": "0.4.9",
+        "date": "30/04/2018 | 11:34",
+        "added": [
+            "**+** Ajout de l'aide par catégorie : i!help [catégorie|commande]",
+            "**+** Ajout de l'aide par catégorie : i!hhelp [catégorie|commande]",
+            "**+** Fix de pas mal de bugs (notament dans les commandes help et hhelp)"
+        ]
+    }, {
+        "title": "0.5.0",
+        "date": "30/04/2018 | 20:00",
+        "added": [
+            "**+** Système multilangue ! (25% terminé)",
+            "**+** Commande lang !",
+            "**+** Fix de pas mal de bugs !"
+        ]
+    }, {
+        "title": "0.6.0",
+        "date": "03/05/2018 | 20:09",
+        "added": [
+            "**SYSTEM** Changement du stockage des données (leveldb => rethinkdb)",
+            "**AJOUT** Commande buy, pour acheter des choses avec l'argent !",
+            "**AJOUT** Ajout des badges dans le profil d'un utilisateur (VIP et Dev)",
+            "**AJOUT** Ajout de quelques traductions dans le système multilangues",
+            "**FIX** Reset de toutes les configurations et utilisateurs",
+            "**FIX** Les commandes réservées au developpeur sont désormais cachées",
+            "**FIX** Fix de plein de bugs !"
+        ]
+    }, {
+        "title": "0.6.1",
+        "date": "05/05/2018 | 15:22",
+        "added": [
+            "**SYSTEM** Ajout des mots interdits sur les serveurs !",
+            "**AJOUT** Commande badword",
+            "**FIX** Fix de plein de bugs (Notamment sur le join/leave) !"
+        ]
+    }]
+}

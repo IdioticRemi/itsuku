@@ -1,0 +1,43 @@
+{
+  "name": "itsuku",
+  "version": "0.6.1",
+  "description": "Itsuku is a fresh new Discord Bot just for you <3",
+  "main": "itsuku.js",
+  "scripts": {
+    "test": "node itsuku"
+  },
+  "author": "ŞʰᶤᶰᵈᵃŞʰᶤ [ Dev Ɨtรยкย ]#1196",
+  "license": "ISC",
+  "dependencies": {
+    "api-npm": "^1.0.0",
+    "array-sort": "^1.0.0",
+    "canvas": "github:Automattic/node-canvas#92b192447e9b9ae98da0f801e4e34afdd1dc1ef8",
+    "canvas-constructor": "^1.0.1",
+    "chalk": "^2.4.1",
+    "cuteapi": "0.0.2",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.6.3",
+    "enmap-rethink": "^2.1.2",
+    "fortnite": "^3.0.0",
+    "fs-nextra": "^0.3.5",
+    "google-translate-api": "^2.3.0",
+    "mal-api": "^2.0.0",
+    "mal-scraper": "^2.4.2",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1",
+    "node-gyp": "^3.8.0",
+    "node-opus": "^0.2.9",
+    "npm": "^6.4.0",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "rebuild": "^0.1.2",
+    "relevant-urban": "^2.0.0",
+    "simple-youtube-api": "^5.0.2",
+    "snekfetch": "^3.6.4",
+    "strict-uri-encode": "^2.0.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.20.4"
+  }
+}
